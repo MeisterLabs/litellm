@@ -10,3 +10,4 @@ services:
     numInstances: 1
     healthCheckPath: /health/liveliness
     autoDeploy: true
+    region: frankfurt
